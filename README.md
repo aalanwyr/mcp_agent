@@ -10,7 +10,7 @@ This guide explains how to set up and launch the Agent UI.
 ## Clone the repository
 
 ```bash
-git clone --recursive https://github.com/alan-mcp/mcp_agent.git
+git clone --recursive https://github.com/aalanwyr/mcp_agent.git
 
 # Or update the submodules:
 git submodule update --init --recursive
