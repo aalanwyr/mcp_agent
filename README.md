@@ -7,6 +7,15 @@ This guide explains how to set up and launch the Agent UI.
 - Bash shell environment
 - Required permissions to execute shell scripts
 
+## Clone the repository
+
+```bash
+git clone --recursive https://github.com/alan-mcp/mcp_agent.git
+
+# Or update the submodules:
+git submodule update --init --recursive
+```
+
 ## The first time you run the agent
 
 1. Make the setup script executable:
