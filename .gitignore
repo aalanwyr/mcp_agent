@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ZSH files
+zsh-*
+.zsh_history
+.zcompdump*
+.zsh_sessions/
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+mcp_agent_env/
+
+# IDE settings (optional but recommended)
+.vscode/
+.idea/
+*.swp 
